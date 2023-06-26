@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.9bae6ab5.css",
-    "main.js": "/static/js/main.87eb63d3.js",
-    "static/media/LogoNew.jpg": "/static/media/LogoNew.997fadf153a29c0d0313.jpg",
+    "main.js": "/static/js/main.7bb4ed4f.js",
+    "static/media/LogoNew2.jpg": "/static/media/LogoNew2.997fadf153a29c0d0313.jpg",
     "static/media/Bunny.png": "/static/media/Bunny.230df78dca57748f1067.png",
     "static/media/success.mp3": "/static/media/success.5f1fee46481f6a9e2585.mp3",
     "static/media/failed.mp3": "/static/media/failed.c225090169354b08b471.mp3",
-    "static/media/Dog.png": "/static/media/Dog.5d6a1516ac5c479a3972.png",
+    "static/media/Dog2.png": "/static/media/Dog2.5d6a1516ac5c479a3972.png",
     "static/media/Hamster.png": "/static/media/Hamster.f0211735e8a29b11a936.png",
     "static/media/Cat.png": "/static/media/Cat.bc9cd715ef3af270871f.png",
     "static/media/Parot.png": "/static/media/Parot.3fcdf2aa0226cb37a507.png",
     "index.html": "/index.html",
     "static/media/bootstrap.css.map": "/static/media/bootstrap.css.31d6cfe0d16ae931b73c.map",
     "main.9bae6ab5.css.map": "/static/css/main.9bae6ab5.css.map",
-    "main.87eb63d3.js.map": "/static/js/main.87eb63d3.js.map"
+    "main.7bb4ed4f.js.map": "/static/js/main.7bb4ed4f.js.map"
   },
   "entrypoints": [
     "static/css/main.9bae6ab5.css",
-    "static/js/main.87eb63d3.js"
+    "static/js/main.7bb4ed4f.js"
   ]
 }
